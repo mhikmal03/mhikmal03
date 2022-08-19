@@ -8,7 +8,7 @@ I’m an objective and data driven person having good analytical & communication
 
 * 🌍  I'm based in Bandung, Indonesia
 * ✉️  You can contact me at [hikmalkp@gmail.com](mailto:hikmalkp@gmail.com)
-* 🧠  I'm learning React JS & CSS Framework
+* 🧠  I'm currently learning React JS & CSS Framework
 
 ### Skills
 
