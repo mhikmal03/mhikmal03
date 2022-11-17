@@ -1,7 +1,7 @@
 Hi 👋 My name is Hikmal Pramudya
 ================================
 
-Beginner Front End Developer
+Front End Developer
 ----------------------------
 
 I’m an objective and data driven person having good analytical & communication skill. I’m experienced in making content, UI/UX, photography and front end.
